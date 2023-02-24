@@ -1,0 +1,16 @@
+# Suggested gitignore from StackOverflow
+
+target
+*.class
+
+*.iml
+*.ipr
+*.iws
+out
+.idea
+
+# scala 3
+.tasty
+
+# mac
+.DS_Store
